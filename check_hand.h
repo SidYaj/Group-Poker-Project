@@ -20,6 +20,6 @@ std::vector<int> two_pairs(std::vector<int> cards);
 
 std::vector<int> three_of_a_kind(std::vector<int> cards);
 
-std::vector<int> check_hand(std::vector<std::vector<int>> combinations);
+std::vector<int> check_hand(std::vector<std::vector<int> > combinations);
 
 #endif
